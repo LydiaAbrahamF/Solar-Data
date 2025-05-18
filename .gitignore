@@ -1,5 +1,9 @@
 Data/
+<<<<<<< HEAD
 docs/
+=======
+bin/
+>>>>>>> dec6b3338d4ac5bf66b8c10d7bc830f220832624
 include/
 lib/
 lib64/
