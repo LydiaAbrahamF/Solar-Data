@@ -26,10 +26,10 @@ This project is a Weather & Solar Dashboard built using Streamlit, Pandas, and P
 1. Clone the repository:
     ```bash
     git clone https://github.com/LydiaAbrahamF/Solar-Data.git
-    cd TenX
+    cd Solar-Data
     ```
 
 2. Install the required dependencies:
     ```bash
-    pip install -r src/requriment.txt
+    pip install -r requriment.txt
     ```
