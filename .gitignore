@@ -1,7 +1,4 @@
-!.csv
-!.pynb
-!Data/
-!.pynb_checkpoint
+Data/
 bin/
 include/
 lib/
