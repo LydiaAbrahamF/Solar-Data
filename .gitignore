@@ -2,3 +2,7 @@
 !.pynb
 !Data/
 !.pynb_checkpoint
+bin/
+include/
+lib/
+lib64/
