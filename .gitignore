@@ -1,10 +1,7 @@
-!.csv
-!.pynb
-!Data/
-!.pynb_checkpoint
-bin/
+Data/
+docs/
 include/
 lib/
 lib64/
 .venv/
-
+__pycache__/
